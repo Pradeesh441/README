@@ -1,9 +1,12 @@
 Projects
 1. The main purpose of this project is to find the most appropriate characterization of documents that capture the similar writing style used by another author. This is also known as Authorship Attribution. In the back-end, we have used Machine Learning and Natural Language processing technique called common n-gram model to achieve this goal and in the front-end, we have used HTML, JavaScript and its D3 library for visualization of the data and results.
+
 My task is to work on front end development part using HTML, CSS, JavaScript and its D3 library for visualization of the data and results. D3.js is used for visualizing documents based on data and it provides full capabilities of modern browsers. For visualization, I used many visual elements like bar chart, labeled force layout, clustering, concept map using D3.js to make more interactive and also have to do documentation part for the listed visualization techniques above. Django framework is used as middleware component to connect front-end and back-end. Finally, we got 90% accuracy with execution time about 5 minutes using backend algorithm. At last, I would like to say that the Visualization techniques make understanding of the solution better and much simpler. 
+
 Front-end - HTML, JavaScript and its D3 library for visualization of the data and results.
 Back-end - Machine Learning & NLP  technique called Common N-gram Model, 
-Django Framework – used to connect Python backend code with Front end 
+Django Framework – used to connect Python backend code with Front end
+ 
 Presentation Link : https://prezi.com/view/U1Ok2qFzmGMfQr86bPhD/
 GitHub Link : https://github.com/Pradeesh441/Data-Visualization
 
@@ -12,12 +15,14 @@ My task is to work on Calendar part and when the user click a specific date from
 The calendar has the following features
 1. General calendar view. 2. On selecting a day, the schedules for that day, To-Do’s and Notes created on that day will be displayed. 3. Navigating to the schedule or To-Do or Notes from the list. 4.Creating a schedule. 5. View the list of schedules, To-Do’s and Notes of particular Day, Week, Month. 6. Send notification of events.
 Language : JAVA, IDE : Android Studio
+
 Video Link : https://drive.google.com/open?id=1Osm_UT_Zk3dQF_xQS5LZ8r4M1wXScAZo
 GitHub Link : https://github.com/Pradeesh441/Noterr123
 
 3. We are given with three datasets. The first dataset is based on wordcount that contains many words, the second dataset is based on “National Names” having all details of all the birth names, and the third dataset is based on “Collision Statistics” from 2000-2003 that contains more information related to vehicle collisions from year (2000-2003).
 My first task is to choose any one dataset which can support the features of wordcount by removing quotations, comma, case conversation. In the second task, use baby names dataset and capture following information such as Preprocess and clean the dataset, total number of births registered during the year, total number of births registered in a year by gender, and populate 5 most popular names registered that year using Python Spark SQL. The third task is to collision statistics dataset and perform the total incident counts in a year, sum of injuries in Nova Scotia grouped by year, and capture sum of injury in Yarmouth country in the year of 2000 using Spark SQL.
 Used : Python Spark SQL, Spark SQL
+
 https://github.com/Pradeesh441/Apache-Spark-Real-Time-data-pipelines-and-analysis
 
 Inspiration
